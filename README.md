@@ -2,7 +2,7 @@
 - 👀 I’m interested in F1
 - 🌱 I’m currently learning creating my own helm charts
 - 💞️ I’m looking to collaborate on self hosted (rook-ceph or longhorn)
-- 📫 How to reach me /dev/null
+- 📫 How to reach me /dev/stdin
 
 <!---
 ChristfriedBalizou/ChristfriedBalizou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
