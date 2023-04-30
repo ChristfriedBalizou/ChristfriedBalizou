@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @ChristfriedBalizou
 - 👀 I’m interested in F1
-- 🌱 I’m currently learning creating my own helm charts
-- 💞️ I’m looking to collaborate on self hosted (rook-ceph or longhorn)
 - 📫 How to reach me /dev/stdin
+
+
+# `whoami`
+
+![](https://github-readme-stats.vercel.app/api?username=Christfriedbalizou&show_icons=true&hide_title=true&theme=solarized-dark&count_private=true&hide=stars)
 
 <!---
 ChristfriedBalizou/ChristfriedBalizou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
