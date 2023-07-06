@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @ChristfriedBalizou
 - 👀 I’m interested in F1
 - 🌱 I’m currently working on a self hosted mail server (or relay)
-- 💞️ I’m looking to collaborate on self hosted VaultWarden, Synology NAS
+- 💞️ I’m looking to collaborate on self hosted VaultWarden
 - 📫 How to reach me /dev/stdin
 
 
