@@ -2,8 +2,10 @@
 
 - 👋 Hi, I’m @ChristfriedBalizou
 - 👀 I’m interested in F1
-- 🌱 I’m currently working on a self hosted mail server (or relay)
-- 💞️ I’m looking to collaborate on self hosted VaultWarden
+- 🌱 I’m currently working on a self hosted VaultWarden
+<!--
+- 💞️ I’m looking to collaborate on
+-->
 - 📫 How to reach me /dev/stdin
 
 
