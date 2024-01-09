@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @ChristfriedBalizou
 - 👀 I’m interested in F1
-- 🌱 I’m currently working on a self hosted git repository
+- 🌱 I’m currently working on a self hosted Git repository / VaultWarden
 <!--
 - 💞️ I’m looking to collaborate on
 -->
