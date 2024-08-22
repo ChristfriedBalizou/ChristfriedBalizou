@@ -2,11 +2,9 @@
 
 - 👋 Hi, I’m @ChristfriedBalizou
 - 👀 I’m interested in F1. Team "Lewis"
-
+- 🌱 I’m currently working on a PostgreSQL backup, replicate vault warden, self-host mealie
 <!--
-- 🌱 I’m currently working on a self hosted Git repository
 - 💞️ I’m looking to collaborate on
-
 - 📫 How to reach me /dev/stdin
 -->
 
