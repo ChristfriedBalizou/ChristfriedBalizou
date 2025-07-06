@@ -16,7 +16,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%207%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -34,16 +34,16 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     19 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      19 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+homelab.git              19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    19 mins             █████████████████████████   100.00 % 
 ```
 
 
